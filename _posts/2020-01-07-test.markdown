@@ -1,25 +1,14 @@
 ---
 layout: post
-title:  "测试一下中文咯"
+title:  "测试一下中文咯 - 勉强算第一篇blog吧"
 date:   2020-01-07 02:35:06
 categories: test
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+真的就是测一下中文， 好吧顺便测一下日本語、テスト。。。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+16年买的mbp键盘有点难用，估计是缝儿里进了一点糖水儿，贼粘， w健要很使劲的按才打得出来，打出wwwwww至少耗时10秒。
 
-Jekyll also offers powerful support for code snippets:
+没钱买新电脑的话只能先拿个外接键盘好了。 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+interesting fact: 这个站似乎四年前就上线了，有一篇默认的welcome to jekyll。时隔四年才打算认真在同一个地方写点东西 ： ）
