@@ -2,12 +2,17 @@
 title: bb123n4's blog
 email: bb123n4@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I think my blog is and will be super awesome （牛逼，ヤバイ）
+  The guy who owns this blog is just a typical coder/programmer, knowing a little rock music and learning how to play an electric guitar. 
+  Soccer is my life. If this guy were not born in China, he would have become a star player in Inter Milan : )
+  As a resolution item of 2020, I decided to take some time to do some serious writings. 
+  Thus I am trying to make this blog not boring but super awesome （牛逼，ヤバイ）
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bb123n4.github.io/" # the base hostname & protocol for your site
 github_username:  bb123n4
 # Build settings
 markdown: kramdown
+
+# plugins
 plugins:
   - jekyll-archives
 
