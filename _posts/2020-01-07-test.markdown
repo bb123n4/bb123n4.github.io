@@ -2,6 +2,7 @@
 layout: post
 title:  "测试一下中文咯 - 勉强算第一篇blog吧"
 date:   2020-01-07 02:35:06
+comments: true
 categories: test
 ---
 真的就是测一下中文， 好吧，顺便测一下日本語、テスト。。。
